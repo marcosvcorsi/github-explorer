@@ -2,9 +2,7 @@
   <img src="https://ik.imagekit.io/85jgdtsmb4/logo_GlmU-ZDFs.svg">
 </h1>
 
-<h2 align="center">
-  <a href="https://affectionate-roentgen-e60344.netlify.app/">Demo</a>
-</h2>
+[Demo](https://affectionate-roentgen-e60344.netlify.app/)
 
 ## 🗒️ About
 
