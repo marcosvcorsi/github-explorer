@@ -24,7 +24,7 @@ The main feature is to search your favorites **Github** repositories, then navig
 
 - [React Router Dom](https://www.npmjs.com/package/react-router-dom)
 
-- [REST **Github API**](https://developer.github.com/v3/)
+- [REST Github API](https://developer.github.com/v3/)
 
 - [Typescript](https://www.typescriptlang.org/)
 
