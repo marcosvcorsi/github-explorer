@@ -21,10 +21,22 @@ The main feature is to search your favorites **Github** repositories, then navig
 ## 👨‍💻️ Technologies
 
 - [ReactJS](https://reactjs.org/)
+
+- [React Router Dom](https://www.npmjs.com/package/react-router-dom)
+
 - [REST **Github API**](https://developer.github.com/v3/)
-- Typescript
-- HTML
-- CSS
+
+- [Typescript](https://www.typescriptlang.org/)
+
+- [Styled Components](https://styled-components.com/)
+
+- [Polished](https://polished.js.org/)
+
+- [Axios](https://github.com/axios/axios)
+
+- [HTML](https://www.w3schools.com/html/)
+
+- [CSS](https://www.w3schools.com/css/)
 
 ---
 
